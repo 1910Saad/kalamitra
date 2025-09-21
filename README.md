@@ -41,30 +41,30 @@ KalaMitra is a comprehensive digital marketplace platform that connects traditio
 ### Installation
 
 1. **Clone the repository**
-   \`\`\`bash
+   ``bash
    git clone <repository-url>
    cd kalamitra-marketplace
-   \`\`\`
+   ``
 
 2. **Install dependencies**
-   \`\`\`bash
+   ``bash
    npm install
    # or
    yarn install
-   \`\`\`
+   ``
 
 3. **Set up environment variables**
-   \`\`\`bash
+   ``bash
    cp .env.example .env.local
-   \`\`\`
+   ``
    Configure your environment variables in `.env.local`
 
 4. **Run the development server**
-   \`\`\`bash
+   ``bash
    npm run dev
    # or
    yarn dev
-   \`\`\`
+   ``
 
 5. **Open your browser**
    Navigate to [http://localhost:3000](http://localhost:3000)
