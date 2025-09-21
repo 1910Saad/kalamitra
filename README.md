@@ -174,13 +174,3 @@ The platform implements a three-tier role-based authentication system:
 - Test components thoroughly
 - Update documentation as needed
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- Traditional Indian artisans who inspire this platform
-- The open-source community for excellent tools and libraries
-- Cultural heritage organizations supporting craft preservation
-
