@@ -49,7 +49,7 @@ KalaMitra is a comprehensive digital marketplace platform that connects traditio
 2. **Install dependencies**
    ``bash
    npm install
-   # or
+   or
    yarn install
    ``
 
@@ -62,11 +62,10 @@ KalaMitra is a comprehensive digital marketplace platform that connects traditio
 4. **Run the development server**
    ``bash
    npm run dev
-   # or
-   yarn dev
-   ``
+   or
+   yarn dev``
 
-5. **Open your browser**
+6. **Open your browser**
    Navigate to [http://localhost:3000](http://localhost:3000)
 
 ## 📁 Project Structure
